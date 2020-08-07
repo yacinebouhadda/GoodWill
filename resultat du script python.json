@@ -1,0 +1,402 @@
+[
+  {
+    "lastname": "Boyer",
+    "firstname": "Gilles",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Mebarek",
+    "firstname": "Nora",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Biteau",
+    "firstname": "Benoît",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Satouri",
+    "firstname": "Mounir",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Griset",
+    "firstname": "Catherine",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Larrouturou",
+    "firstname": "Pierre",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Garraud",
+    "firstname": "Jean-Paul",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Vedrenne",
+    "firstname": "Marie-Pierre",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Toussaint",
+    "firstname": "Marie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Delbos-Corfield",
+    "firstname": "Gwendoline",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Joron",
+    "firstname": "Virginie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Alfonsi",
+    "firstname": "François",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bellamy",
+    "firstname": "François-Xavier",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Laporte",
+    "firstname": "Hélène",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Mélin",
+    "firstname": "Joëlle",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Gozi",
+    "firstname": "Sandro",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Lebreton",
+    "firstname": "Gilles",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Gruffat",
+    "firstname": "Claude",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Didier",
+    "firstname": "Geoffroy",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Juvin",
+    "firstname": "Hervé",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Hayer",
+    "firstname": "Valérie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Cicurel",
+    "firstname": "Ilana",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Pirbakas",
+    "firstname": "Maxette",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bay",
+    "firstname": "Nicolas",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Karleskind",
+    "firstname": "Pierre",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Danjean",
+    "firstname": "Arnaud",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Collard",
+    "firstname": "Gilbert",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Lechanteux",
+    "firstname": "Julie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Zacharopoulou",
+    "firstname": "Chrysoula",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Cormand",
+    "firstname": "David",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Keller",
+    "firstname": "Fabienne",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Decerle",
+    "firstname": "Jérémy",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Rivasi",
+    "firstname": "Michèle",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Morano",
+    "firstname": "Nadine",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bijoux",
+    "firstname": "Stéphane",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Careme",
+    "firstname": "Damien",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Macron",
+    "firstname": "Emmanuel",
+    "title": "Président de la République"
+  },
+  {
+    "lastname": "Andrieu",
+    "firstname": "Eric",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Loiseau",
+    "firstname": "Nathalie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Sander",
+    "firstname": "Anne",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Olivier",
+    "firstname": "Philippe",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Glucksmann",
+    "firstname": "Raphaël",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Guillaume",
+    "firstname": "Sylvie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bruna",
+    "firstname": "Annika",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bilde",
+    "firstname": "Dominique",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Tolleret",
+    "firstname": "Irène",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Brunet",
+    "firstname": "Sylvie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Mariani",
+    "firstname": "Thierry",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Jalkh",
+    "firstname": "Jean-François",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bardella",
+    "firstname": "Jordan",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Colin-Oesterle",
+    "firstname": "Nathalie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Roose",
+    "firstname": "Caroline",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Beigneux",
+    "firstname": "Aurélia",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Lalucq",
+    "firstname": "Aurore",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Guetta",
+    "firstname": "Bernard",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Chabaud",
+    "firstname": "Catherine",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Maurel",
+    "firstname": "Emmanuel",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Jamet",
+    "firstname": "France",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Lacapelle",
+    "firstname": "Jean-Lin",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Riviere",
+    "firstname": "Jérôme",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Androuët",
+    "firstname": "Mathilde",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Grudler",
+    "firstname": "Christophe",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Delli",
+    "firstname": "Karima",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Canfin",
+    "firstname": "Pascal",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Yon-Courtin",
+    "firstname": "Stéphanie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Trillet-Lenoir",
+    "firstname": "Véronique",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Pelletier",
+    "firstname": "Anne-Sophie",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Rouge",
+    "firstname": "André",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Farreng",
+    "firstname": "Laurence",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Chaibi",
+    "firstname": "Leïla",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Jadot",
+    "firstname": "Yannick",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Omarjee",
+    "firstname": "Younous",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Riquet",
+    "firstname": "Dominique",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Bompard",
+    "firstname": "Manuel",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Evren",
+    "firstname": "Agnès",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Hortefeux",
+    "firstname": "Brice",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Séjourné",
+    "firstname": "Stéphane",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Aubry",
+    "firstname": "Manon",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Durand",
+    "firstname": "Pascal",
+    "title": "Représentant au Parlement Européen"
+  },
+  {
+    "lastname": "Yenbou",
+    "firstname": "Salima",
+    "title": "Représentant au Parlement Européen"
+  }
+]
