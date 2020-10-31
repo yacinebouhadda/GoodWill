@@ -6,7 +6,7 @@ con= psycopg2.connect(
         database = "dumps",
         user = "postgres",
         port="5432",
-        password = "Zzorro/619")
+        password = "******")
 
 # curseur
 
